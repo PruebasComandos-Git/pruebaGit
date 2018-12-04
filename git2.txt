@@ -1,1 +1,2 @@
 git log: para ver todos los commits realizados
+git branch: para crear y ver ramas.
