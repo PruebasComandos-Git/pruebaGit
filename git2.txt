@@ -1,2 +1,1 @@
 git log: para ver todos los commits realizados
-git branch NombreRama: Para crear una rama
