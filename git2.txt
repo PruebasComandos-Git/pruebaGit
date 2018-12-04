@@ -1,0 +1,1 @@
+git log: para ver todos los commits realizados
