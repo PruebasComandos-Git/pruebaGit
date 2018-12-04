@@ -1,0 +1,1 @@
+git checkout: para movermos a otras ramas o otros commits
