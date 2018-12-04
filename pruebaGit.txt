@@ -1,0 +1,4 @@
+git init: Esto crea un nuevo subdirectorio llamado .git que contiene 
+todos los archivos necesarios del repositorio.
+
+
