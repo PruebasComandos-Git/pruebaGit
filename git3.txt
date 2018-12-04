@@ -1,1 +1,3 @@
 git checkout: para movermos a otras ramas o otros commits
+git checkout -b nombreRama: Para crear y movernos directamente a la 
+rama.
